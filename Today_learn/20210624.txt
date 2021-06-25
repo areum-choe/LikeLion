@@ -1,0 +1,8 @@
+오늘의 내용
+- matplotlib
+- pandas
+
+오늘의 목표
+- 시각화 마무리
+- pandas 학습
+- 통계학 학습
