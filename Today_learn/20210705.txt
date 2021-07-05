@@ -1,0 +1,5 @@
+[오늘의 목표]
+-리뷰 
+-팀별프로젝트 중간발표
+-타이타닉,Bike Sharing Demand의 데이터 처리 및 시각화
+-과제 체크 및 제출(tkinter,영화10p,folium,konlpy)
